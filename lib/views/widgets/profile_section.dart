@@ -67,7 +67,7 @@ class ProfileSection extends StatelessWidget {
                   icon: const Icon(FontAwesomeIcons.github),
                   onPressed: () {
                     MyReusableFunctions.launchAnyUrl(
-                        "https://github.com/igbokwenu/increasecodes");
+                        "https://github.com/igbokwenu/flutterportfoliobyincrease");
                   },
                 ),
               ),
